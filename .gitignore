@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Next.js generated output
+.next/
+.next-production/
+out/
+
+# TypeScript incremental build data
+*.tsbuildinfo
+
+# Local workspace transfer metadata
+.library-tmp/
+
+# Environment files
+.env*
+!.env.example
